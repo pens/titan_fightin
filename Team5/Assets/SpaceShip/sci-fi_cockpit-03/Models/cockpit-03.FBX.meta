@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 17ae48c81b920b24f9760be59b1932ab
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body
+    100002: Camera01
+    100004: chair-01
+    100006: chair-02
+    100008: //RootNode
+    100010: display-01
+    100012: display-02
+    100014: display-03
+    100016: display-04
+    100018: display-05
+    100020: display-06
+    100022: glass
+    100024: Particle View 01
+    100026: screen-01
+    100028: screen-02
+    100030: screen-03
+    100032: screen-04
+    100034: screen-05
+    100036: screen-06
+    100038: screen-07
+    100040: screen-08
+    100042: screen-09
+    100044: screen-10
+    400000: body
+    400002: Camera01
+    400004: chair-01
+    400006: chair-02
+    400008: //RootNode
+    400010: display-01
+    400012: display-02
+    400014: display-03
+    400016: display-04
+    400018: display-05
+    400020: display-06
+    400022: glass
+    400024: Particle View 01
+    400026: screen-01
+    400028: screen-02
+    400030: screen-03
+    400032: screen-04
+    400034: screen-05
+    400036: screen-06
+    400038: screen-07
+    400040: screen-08
+    400042: screen-09
+    400044: screen-10
+    2300000: body
+    2300002: chair-01
+    2300004: chair-02
+    2300006: display-01
+    2300008: display-02
+    2300010: display-03
+    2300012: display-04
+    2300014: display-05
+    2300016: display-06
+    2300018: glass
+    2300020: screen-01
+    2300022: screen-02
+    2300024: screen-03
+    2300026: screen-04
+    2300028: screen-05
+    2300030: screen-06
+    2300032: screen-07
+    2300034: screen-08
+    2300036: screen-09
+    2300038: screen-10
+    3300000: body
+    3300002: chair-01
+    3300004: chair-02
+    3300006: display-01
+    3300008: display-02
+    3300010: display-03
+    3300012: display-04
+    3300014: display-05
+    3300016: display-06
+    3300018: glass
+    3300020: screen-01
+    3300022: screen-02
+    3300024: screen-03
+    3300026: screen-04
+    3300028: screen-05
+    3300030: screen-06
+    3300032: screen-07
+    3300034: screen-08
+    3300036: screen-09
+    3300038: screen-10
+    4300000: body
+    4300002: glass
+    4300004: screen-10
+    4300006: chair-02
+    4300008: chair-01
+    4300010: display-01
+    4300012: display-02
+    4300014: display-03
+    4300016: display-04
+    4300018: display-05
+    4300020: display-06
+    4300022: screen-01
+    4300024: screen-02
+    4300026: screen-03
+    4300028: screen-04
+    4300030: screen-05
+    4300032: screen-06
+    4300034: screen-07
+    4300036: screen-08
+    4300038: screen-09
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

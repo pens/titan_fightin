@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 2e020218de57e1a4aac12f8f37b53089
+timeCreated: 1462497914
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1st Distal phalanx
+    100002: 1st Metacarpal
+    100004: 1st Proximal phalanx
+    100006: 2nd Distal phalanx
+    100008: 2nd Metacarpal
+    100010: 2nd Middle phalanx
+    100012: 2nd Proximal phalanx
+    100014: 3rd Distal phalanx
+    100016: 3rd Metacarpal
+    100018: 3rd Middle phalanx
+    100020: 3rd Proximal phalanx
+    100022: 4th Distal phalanx
+    100024: 4th Metacarpal
+    100026: 4th Middle phalanx
+    100028: 4th Proximal phalanx
+    100030: 5th Distal phalanx
+    100032: 5th Metacarpal
+    100034: 5th Middle phalanx
+    100036: 5th Proximal phalanx
+    100038: Abductor pollicis brevis muscle
+    100040: Abductor pollicis longus muscle
+    100042: Abductor pollicis longus muscle 1
+    100044: Arteries
+    100046: Brachioradialis muscle
+    100048: Capitate
+    100050: Dorsal interossei muscles
+    100052: Extensor carpi radialis brevis muscle
+    100054: Extensor carpi radialis longus muscle
+    100056: Extensor carpi ulnaris muscle
+    100058: Extensor digiti minimi muscle
+    100060: Extensor digitorum muscle
+    100062: Extensor indicis muscle
+    100064: Extensor pollicis brevis muscle
+    100066: Extensor pollicis longus muscle
+    100068: Flexor carpi radialis muscle
+    100070: Flexor carpi ulnaris muscle
+    100072: Flexor digiti minimi brevis muscle
+    100074: Flexor digiti minimi brevis muscle 1
+    100076: Flexor digitorum profundus muscle
+    100078: Flexor digitorum superficialis muscle
+    100080: Flexor pollicis brevis muscle
+    100082: Flexor pollicis longus muscle
+    100084: Hamate
+    100086: //RootNode
+    100088: Lumbricals muscles
+    100090: Lunate
+    100092: Nerves
+    100094: Opponens digiti minimi muscle
+    100096: Opponens pollicis muscle
+    100098: Palmar interossei muscles
+    100100: Palmaris longus muscle
+    100102: Pisiform
+    100104: Pronator quadratus muscle
+    100106: Radius
+    100108: Scaphoid
+    100110: Trapezium
+    100112: Trapezoid
+    100114: Triquetral (triangular)
+    100116: Ulna
+    100118: Veins
+    400000: 1st Distal phalanx
+    400002: 1st Metacarpal
+    400004: 1st Proximal phalanx
+    400006: 2nd Distal phalanx
+    400008: 2nd Metacarpal
+    400010: 2nd Middle phalanx
+    400012: 2nd Proximal phalanx
+    400014: 3rd Distal phalanx
+    400016: 3rd Metacarpal
+    400018: 3rd Middle phalanx
+    400020: 3rd Proximal phalanx
+    400022: 4th Distal phalanx
+    400024: 4th Metacarpal
+    400026: 4th Middle phalanx
+    400028: 4th Proximal phalanx
+    400030: 5th Distal phalanx
+    400032: 5th Metacarpal
+    400034: 5th Middle phalanx
+    400036: 5th Proximal phalanx
+    400038: Abductor pollicis brevis muscle
+    400040: Abductor pollicis longus muscle
+    400042: Abductor pollicis longus muscle 1
+    400044: Arteries
+    400046: Brachioradialis muscle
+    400048: Capitate
+    400050: Dorsal interossei muscles
+    400052: Extensor carpi radialis brevis muscle
+    400054: Extensor carpi radialis longus muscle
+    400056: Extensor carpi ulnaris muscle
+    400058: Extensor digiti minimi muscle
+    400060: Extensor digitorum muscle
+    400062: Extensor indicis muscle
+    400064: Extensor pollicis brevis muscle
+    400066: Extensor pollicis longus muscle
+    400068: Flexor carpi radialis muscle
+    400070: Flexor carpi ulnaris muscle
+    400072: Flexor digiti minimi brevis muscle
+    400074: Flexor digiti minimi brevis muscle 1
+    400076: Flexor digitorum profundus muscle
+    400078: Flexor digitorum superficialis muscle
+    400080: Flexor pollicis brevis muscle
+    400082: Flexor pollicis longus muscle
+    400084: Hamate
+    400086: //RootNode
+    400088: Lumbricals muscles
+    400090: Lunate
+    400092: Nerves
+    400094: Opponens digiti minimi muscle
+    400096: Opponens pollicis muscle
+    400098: Palmar interossei muscles
+    400100: Palmaris longus muscle
+    400102: Pisiform
+    400104: Pronator quadratus muscle
+    400106: Radius
+    400108: Scaphoid
+    400110: Trapezium
+    400112: Trapezoid
+    400114: Triquetral (triangular)
+    400116: Ulna
+    400118: Veins
+    2300000: 1st Distal phalanx
+    2300002: 1st Metacarpal
+    2300004: 1st Proximal phalanx
+    2300006: 2nd Distal phalanx
+    2300008: 2nd Metacarpal
+    2300010: 2nd Middle phalanx
+    2300012: 2nd Proximal phalanx
+    2300014: 3rd Distal phalanx
+    2300016: 3rd Metacarpal
+    2300018: 3rd Middle phalanx
+    2300020: 3rd Proximal phalanx
+    2300022: 4th Distal phalanx
+    2300024: 4th Metacarpal
+    2300026: 4th Middle phalanx
+    2300028: 4th Proximal phalanx
+    2300030: 5th Distal phalanx
+    2300032: 5th Metacarpal
+    2300034: 5th Middle phalanx
+    2300036: 5th Proximal phalanx
+    2300038: Abductor pollicis brevis muscle
+    2300040: Abductor pollicis longus muscle
+    2300042: Abductor pollicis longus muscle 1
+    2300044: Arteries
+    2300046: Brachioradialis muscle
+    2300048: Capitate
+    2300050: Dorsal interossei muscles
+    2300052: Extensor carpi radialis brevis muscle
+    2300054: Extensor carpi radialis longus muscle
+    2300056: Extensor carpi ulnaris muscle
+    2300058: Extensor digiti minimi muscle
+    2300060: Extensor digitorum muscle
+    2300062: Extensor indicis muscle
+    2300064: Extensor pollicis brevis muscle
+    2300066: Extensor pollicis longus muscle
+    2300068: Flexor carpi radialis muscle
+    2300070: Flexor carpi ulnaris muscle
+    2300072: Flexor digiti minimi brevis muscle
+    2300074: Flexor digiti minimi brevis muscle 1
+    2300076: Flexor digitorum profundus muscle
+    2300078: Flexor digitorum superficialis muscle
+    2300080: Flexor pollicis brevis muscle
+    2300082: Flexor pollicis longus muscle
+    2300084: Hamate
+    2300086: Lumbricals muscles
+    2300088: Lunate
+    2300090: Nerves
+    2300092: Opponens digiti minimi muscle
+    2300094: Opponens pollicis muscle
+    2300096: Palmar interossei muscles
+    2300098: Palmaris longus muscle
+    2300100: Pisiform
+    2300102: Pronator quadratus muscle
+    2300104: Radius
+    2300106: Scaphoid
+    2300108: Trapezium
+    2300110: Trapezoid
+    2300112: Triquetral (triangular)
+    2300114: Ulna
+    2300116: Veins
+    3300000: 1st Distal phalanx
+    3300002: 1st Metacarpal
+    3300004: 1st Proximal phalanx
+    3300006: 2nd Distal phalanx
+    3300008: 2nd Metacarpal
+    3300010: 2nd Middle phalanx
+    3300012: 2nd Proximal phalanx
+    3300014: 3rd Distal phalanx
+    3300016: 3rd Metacarpal
+    3300018: 3rd Middle phalanx
+    3300020: 3rd Proximal phalanx
+    3300022: 4th Distal phalanx
+    3300024: 4th Metacarpal
+    3300026: 4th Middle phalanx
+    3300028: 4th Proximal phalanx
+    3300030: 5th Distal phalanx
+    3300032: 5th Metacarpal
+    3300034: 5th Middle phalanx
+    3300036: 5th Proximal phalanx
+    3300038: Abductor pollicis brevis muscle
+    3300040: Abductor pollicis longus muscle
+    3300042: Abductor pollicis longus muscle 1
+    3300044: Arteries
+    3300046: Brachioradialis muscle
+    3300048: Capitate
+    3300050: Dorsal interossei muscles
+    3300052: Extensor carpi radialis brevis muscle
+    3300054: Extensor carpi radialis longus muscle
+    3300056: Extensor carpi ulnaris muscle
+    3300058: Extensor digiti minimi muscle
+    3300060: Extensor digitorum muscle
+    3300062: Extensor indicis muscle
+    3300064: Extensor pollicis brevis muscle
+    3300066: Extensor pollicis longus muscle
+    3300068: Flexor carpi radialis muscle
+    3300070: Flexor carpi ulnaris muscle
+    3300072: Flexor digiti minimi brevis muscle
+    3300074: Flexor digiti minimi brevis muscle 1
+    3300076: Flexor digitorum profundus muscle
+    3300078: Flexor digitorum superficialis muscle
+    3300080: Flexor pollicis brevis muscle
+    3300082: Flexor pollicis longus muscle
+    3300084: Hamate
+    3300086: Lumbricals muscles
+    3300088: Lunate
+    3300090: Nerves
+    3300092: Opponens digiti minimi muscle
+    3300094: Opponens pollicis muscle
+    3300096: Palmar interossei muscles
+    3300098: Palmaris longus muscle
+    3300100: Pisiform
+    3300102: Pronator quadratus muscle
+    3300104: Radius
+    3300106: Scaphoid
+    3300108: Trapezium
+    3300110: Trapezoid
+    3300112: Triquetral (triangular)
+    3300114: Ulna
+    3300116: Veins
+    4300000: Abductor pollicis longus muscle
+    4300002: Extensor carpi ulnaris muscle
+    4300004: Palmar interossei muscles
+    4300006: Flexor pollicis brevis muscle
+    4300008: 2nd Distal phalanx
+    4300010: 2nd Middle phalanx
+    4300012: Capitate
+    4300014: Radius
+    4300016: Nerves
+    4300018: 4th Distal phalanx
+    4300020: Scaphoid
+    4300022: 5th Metacarpal
+    4300024: Trapezium
+    4300026: 4th Proximal phalanx
+    4300028: Pisiform
+    4300030: Dorsal interossei muscles
+    4300032: Extensor pollicis longus muscle
+    4300034: Extensor digiti minimi muscle
+    4300036: 4th Metacarpal
+    4300038: 1st Distal phalanx
+    4300040: 1st Metacarpal
+    4300042: Extensor digitorum muscle
+    4300044: Hamate
+    4300046: Flexor digiti minimi brevis muscle
+    4300048: Abductor pollicis longus muscle
+    4300050: Abductor pollicis brevis muscle
+    4300052: Flexor carpi radialis muscle
+    4300054: Palmaris longus muscle
+    4300056: 4th Middle phalanx
+    4300058: 3rd Middle phalanx
+    4300060: 3rd Proximal phalanx
+    4300062: 3rd Metacarpal
+    4300064: 2nd Metacarpal
+    4300066: Flexor digiti minimi brevis muscle
+    4300068: 5th Distal phalanx
+    4300070: Opponens digiti minimi muscle
+    4300072: 5th Middle phalanx
+    4300074: 3rd Distal phalanx
+    4300076: 1st Proximal phalanx
+    4300078: Trapezoid
+    4300080: Pronator quadratus muscle
+    4300082: Lunate
+    4300084: Extensor carpi radialis brevis muscle
+    4300086: Flexor digitorum superficialis muscle
+    4300088: Opponens pollicis muscle
+    4300090: 5th Proximal phalanx
+    4300092: Triquetral (triangular)
+    4300094: 2nd Proximal phalanx
+    4300096: Veins
+    4300098: Ulna
+    4300100: Flexor digitorum profundus muscle
+    4300102: Extensor carpi radialis longus muscle
+    4300104: Flexor pollicis longus muscle
+    4300106: Brachioradialis muscle
+    4300108: Extensor indicis muscle
+    4300110: Extensor pollicis brevis muscle
+    4300112: Lumbricals muscles
+    4300114: Flexor carpi ulnaris muscle
+    4300116: Arteries
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
